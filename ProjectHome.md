@@ -1,0 +1,1 @@
+This project offers a tool for using Natural Language Processing, especially the Stanford Grammatical Dependencies, for an analysis of System Requirements. It can used with each requirement engineering tool to vizualize the grammatical structure of requirements.

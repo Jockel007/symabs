@@ -1,0 +1,7 @@
+# Scientific backgrounds #
+
+This tool is released with a publication on the <a href='http://www.seisconf.org'>SEISCONF</a> (Systems Engineering Infrastructure Conference) in Oct. 2010.
+
+<a href='http://elib.dlr.de/66387/1/Steinmetz_SEISCONF_2010.pdf'>Here</a> you can download the paper.
+
+<a href='http://atlas.tk.informatik.tu-darmstadt.de/Publications/2010/TUD-CS-2010-2400.pdf'>Alternative Link</a>
